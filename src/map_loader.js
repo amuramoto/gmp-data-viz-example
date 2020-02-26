@@ -9,7 +9,7 @@ export class GoogleMapLoader {
         const loader = new Loader({
             apiKey: key,
             version: "weekly",
-            libraries: ["places"]
+            libraries: ["places", "drawing", "geometry"]
         });
         
         const mapOptions = {
