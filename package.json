@@ -24,8 +24,8 @@
     "@deck.gl/layers": "7.0.0",
     "@google/maps": "^0.5.5",
     "express": "^4.17.1",
-    "webpack-cli": "^3.1.2",
-    "webpack": "^4.20.2",
+    "webpack-cli": "^5.0.1",
+    "webpack": "^5.75.0",
     "@googlemaps/loader": ""
   },
   "devDependencies": {
